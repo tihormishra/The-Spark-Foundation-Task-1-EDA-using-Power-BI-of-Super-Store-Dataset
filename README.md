@@ -5,6 +5,7 @@ profit% and quantity sold of different categories and sub-categories.
 
 
 Meta Data
+
 Ship Mode: Mode of Shipping
 
 Segment: Super Store segments Belongs to Consumer, Corporate & Home office
