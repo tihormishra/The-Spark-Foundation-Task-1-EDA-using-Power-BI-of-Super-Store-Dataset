@@ -1,3 +1,5 @@
+![WhatsApp Image 2023-05-11 at 13 40 32](https://github.com/tihormishra/The-Spark-Foundation-Task-1-EDA-using-Power-BI-of-Super-Store-Dataset/assets/121818928/c1d9cae3-c0e5-4a6a-b87d-8c7848e47197)
+![WhatsApp Image 2023-05-11 at 13 41 25](https://github.com/tihormishra/The-Spark-Foundation-Task-1-EDA-using-Power-BI-of-Super-Store-Dataset/assets/121818928/2db3c8a4-2c55-4214-b101-6cd7bbae266e)
 # The-Spark-Foundation-Task-1-EDA-using-Power-BI-of-Super-Store-Dataset
 
 The superstore data consists of sales, profit, ITR (https://github.com/tihormishra/The-Spark-Foundation-Task-1-EDA-using-Power-BI-of-Super-Store-Dataset/files/11449839/Superstore.Sales.Dashboard.pdf)
